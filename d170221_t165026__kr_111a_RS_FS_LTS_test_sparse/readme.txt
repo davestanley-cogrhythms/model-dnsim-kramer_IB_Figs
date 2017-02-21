@@ -9,3 +9,9 @@ for i = 1:9
 end
 
 
+
+for i = 1:9
+    t = data.time; figure; plotz(t,mean(data(i).E_I_iGABAa_s,2),’b’); hold on; plotz(t,mean(data(i).I_E_iAMPA_s,2),’r’);
+end
+
+

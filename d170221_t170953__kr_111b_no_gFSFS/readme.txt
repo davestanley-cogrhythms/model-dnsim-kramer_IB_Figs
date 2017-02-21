@@ -1,0 +1,1 @@
+111b_no_gFSFS Tried disabling gFSFS (Fig3) and then increasing gRSFS (Fig5) to get better locking between RS and FS. Improved slightly, but not enough. Next step is to try ramping up noise.
