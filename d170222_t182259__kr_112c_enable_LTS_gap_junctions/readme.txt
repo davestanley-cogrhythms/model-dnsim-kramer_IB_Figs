@@ -1,0 +1,1 @@
+112c_enable_LTS_gap_junctions Enabled LTS-LTS gap junctions.
