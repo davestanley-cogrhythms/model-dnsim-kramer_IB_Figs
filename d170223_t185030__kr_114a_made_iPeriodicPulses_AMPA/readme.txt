@@ -1,0 +1,1 @@
+114a_made_iPeriodicPulses_AMPA I replaced the traditional current injection version of iPeriodicPulses with an AMPA version, which generates slightly broadened pulses of AMPA conductance.
