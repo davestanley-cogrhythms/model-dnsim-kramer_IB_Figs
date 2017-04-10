@@ -8,4 +8,3 @@ Figs 7-9 As above, now at correct values:
 Figs 10-12 Now using traditional 80-20 ratio of RS to FS. Synaptic connectivity now at:
 	RS -> FS: 0.1
 	FS -> RS: 0.1
-
