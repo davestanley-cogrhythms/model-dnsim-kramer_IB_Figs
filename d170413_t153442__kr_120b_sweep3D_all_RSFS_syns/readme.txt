@@ -1,0 +1,1 @@
+120b_sweep3D_all_RSFS_syns Do huge sweep over all parameters: gRSFS, gFSFS, and gFSRS.
