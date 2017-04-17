@@ -1,0 +1,1 @@
+121c_sweep1_RSstim Sweeping through DC stim values to RS cells. gRSFS=1.5; gFSFS=1; gFSRS=1;.
