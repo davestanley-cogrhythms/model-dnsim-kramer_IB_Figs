@@ -1,0 +1,1 @@
+123a_sweep1D_majoradjust Made a bunch of changes - higher noise; lowered Poisson rate; higher Poisson gsyn; lower gap junctions
