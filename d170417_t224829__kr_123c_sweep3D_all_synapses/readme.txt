@@ -1,0 +1,1 @@
+123c_sweep3D_all_synapses Full sweep through all synaptic values for RS stim = 0.5.
