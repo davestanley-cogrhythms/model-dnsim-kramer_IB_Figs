@@ -1,0 +1,1 @@
+126a_redid_PPStim_Jitter Jitter is now additive. Kept most other settings as defualt, except PPStim tauRx
