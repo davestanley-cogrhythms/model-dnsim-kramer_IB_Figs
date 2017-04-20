@@ -1,0 +1,1 @@
+128b_test_LTS_iAR_gating Added h current to LTS cells. Default settings from Sherfeys Kramer 2008 IB cell model
