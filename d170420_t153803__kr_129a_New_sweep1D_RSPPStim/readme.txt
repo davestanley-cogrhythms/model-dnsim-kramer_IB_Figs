@@ -1,0 +1,1 @@
+129a_New_sweep1D_RSPPStim New idea: try getting RS cells to produce a huge spike on AP pulse. This is just RS FS network, subject to varying PPStim
