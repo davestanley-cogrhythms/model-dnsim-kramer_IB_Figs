@@ -1,0 +1,1 @@
+128c_test_LTS_iAR_gating2 Tested responses to various current injections. Only LTS cells. PP Stim turns on around 400ms
