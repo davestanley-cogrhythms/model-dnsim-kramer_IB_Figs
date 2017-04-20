@@ -1,0 +1,1 @@
+128_LTS_hcurrent Added h current to LTS cells. Default settings from Sherfeys Kramer 2008 IB cell model
