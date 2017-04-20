@@ -1,0 +1,1 @@
+129b_sweep_FSPPStim_lower_all_gsyn Swept through FS PPStim values. Also reduced all synaptic strengths in gamma oscillator to 1.0
