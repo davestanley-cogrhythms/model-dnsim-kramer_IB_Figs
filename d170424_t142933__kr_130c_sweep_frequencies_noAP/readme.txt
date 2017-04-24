@@ -1,0 +1,1 @@
+130c_sweep_frequencies_noAP At Nancys request, swept through a bunch of input frequencies. Freqs = [25,30,35,45]. Each freq has 2 figures.
