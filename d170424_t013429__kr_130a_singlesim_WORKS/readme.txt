@@ -1,0 +1,1 @@
+130a_singlesim_WORKS Did a single simulation with things working. LTS cells now produce a large burst on AP pulse. Next, I will implement feedback from LTS to RS cells.
