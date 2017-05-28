@@ -1,0 +1,1 @@
+134a_add_RS_LTS Added M-current to RS cells, so they now fire by rebound just like LTS. Tweaked network slightly.

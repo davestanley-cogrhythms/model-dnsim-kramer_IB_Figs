@@ -1,0 +1,1 @@
+135a_g_leak_1 Increased gleak to 1 in all cells. Kind of working
