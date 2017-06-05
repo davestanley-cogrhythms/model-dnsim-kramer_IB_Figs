@@ -1,0 +1,1 @@
+137e_case9_gLTS_to_RSFS Swept feedback inhibition from LTS cells to RS and FS. Seems like 1st large burst of LTS cells might be enough.
