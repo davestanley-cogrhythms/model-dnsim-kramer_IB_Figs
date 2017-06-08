@@ -1,0 +1,1 @@
+138b_sweep_gLTSRS Swept thorugh inhib feedback from LTS to RS. Seems high inhibition is necessary!
