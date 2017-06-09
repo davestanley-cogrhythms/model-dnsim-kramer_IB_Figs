@@ -1,0 +1,1 @@
+140a_single_IBNG Single sim of IB NG network. Figs 1-2 default; Figs3-4 NMDA block.
