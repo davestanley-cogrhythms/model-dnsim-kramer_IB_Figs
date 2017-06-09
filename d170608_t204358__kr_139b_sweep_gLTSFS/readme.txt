@@ -1,0 +1,1 @@
+139b_sweep_gLTSFS Swept through LTS to FS synapse values. Settled on 0.5.
