@@ -1,0 +1,1 @@
+140b_single_RSFSLTS Did multiple random seed sweeps with RS FS LTS network. Increased gLTS->RS slightly to 1.5. Decreased gFS->FS to 0.3. Also added dsPlot_with_AP_line function.
