@@ -1,0 +1,1 @@
+140f_reset_to_140a Reset gLTS_FS and gLTS_RS conductances to state in kr_140a.
