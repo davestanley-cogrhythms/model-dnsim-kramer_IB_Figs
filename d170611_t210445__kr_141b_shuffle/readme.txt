@@ -1,0 +1,1 @@
+141b_shuffle Settled on LTS->RS feedback of 0.75. Unblocked gLTS->FS. Did shuffle sweep.
