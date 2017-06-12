@@ -1,0 +1,1 @@
+146c_RSFSLTS_tune_Jrs2 Tried tuning Jrs again. Might need to lower it so spontaneous gamma doesnt break delta
