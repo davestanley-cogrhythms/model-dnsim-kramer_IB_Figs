@@ -1,0 +1,1 @@
+148d_fullnet_sweep_NGRS Swept through gNG->RS GABAB. Value of 0.2 seems good.
