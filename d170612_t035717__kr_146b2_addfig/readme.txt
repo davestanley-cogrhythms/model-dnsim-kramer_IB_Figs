@@ -1,0 +1,1 @@
+146b2_addfig Simulated IBNG network with PPStim on. Figs1-3 10 Hz; Figs 4-7 40 Hz
