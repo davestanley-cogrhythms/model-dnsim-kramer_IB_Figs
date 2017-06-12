@@ -1,0 +1,1 @@
+147b_full_tune_IBRS_again Blocked IB->RS AMPA and sweep IB->RS NMDA from 2:5. Value of 4 or 5 seems to about do it.
