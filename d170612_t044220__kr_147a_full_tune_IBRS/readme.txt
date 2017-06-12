@@ -1,0 +1,1 @@
+147a_full_tune_IBRS Initially reduced IB->RS AMPA and increased IB->RS NMDA. Still too low.
