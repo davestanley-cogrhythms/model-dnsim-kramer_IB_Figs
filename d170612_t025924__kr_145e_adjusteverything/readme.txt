@@ -1,0 +1,1 @@
+145e_adjusteverything Increased NMDA, GABAB conductances slightly; decreased AMPA.
