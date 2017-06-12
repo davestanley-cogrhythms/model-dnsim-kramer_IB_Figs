@@ -1,0 +1,1 @@
+147c_sweep_RSNG Swept through values of RSNG. Seems value around 0.3 is good.
