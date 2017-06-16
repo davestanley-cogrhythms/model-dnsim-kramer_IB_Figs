@@ -1,0 +1,1 @@
+150a_IBNG_SS IB NG network only; swept through cases to get silent steady state under 40 Hz.
