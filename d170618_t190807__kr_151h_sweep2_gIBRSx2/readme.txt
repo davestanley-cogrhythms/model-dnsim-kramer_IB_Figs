@@ -1,0 +1,1 @@
+151h_sweep2_gIBRSx2 Sweep 2D. Both NMDA and AMPA.
