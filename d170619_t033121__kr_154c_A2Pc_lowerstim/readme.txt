@@ -1,0 +1,1 @@
+154c_A2Pc_lowerstim As before, but with lower amplitude ranges
