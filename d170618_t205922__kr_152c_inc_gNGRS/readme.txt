@@ -1,0 +1,1 @@
+152c_inc_gNGRS Increased gNGRS to get better inhibition of RS cells following initial stim. Swept gIBRS for both NMDA and AMPA
