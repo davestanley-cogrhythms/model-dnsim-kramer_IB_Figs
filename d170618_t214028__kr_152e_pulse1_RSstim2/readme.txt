@@ -1,0 +1,1 @@
+152e_pulse1_RSstim2 Set pulsemode 1. As before -sweep RSstim2; but also did shuffle sims
