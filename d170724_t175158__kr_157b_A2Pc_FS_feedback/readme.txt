@@ -1,0 +1,1 @@
+157b_A2Pc_FS_feedback Ran amplitude to phase coupling, using FS feedback instead of NG feedback. Using initial IC hyperpolarization.
