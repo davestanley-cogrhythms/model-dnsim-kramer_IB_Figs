@@ -1,0 +1,1 @@
+160b_as_before_spontaneous Same sweep as before, but with spontaneous activity (stim_mode = 0).
