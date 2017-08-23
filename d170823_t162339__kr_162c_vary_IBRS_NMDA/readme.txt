@@ -1,0 +1,1 @@
+162c_vary_IBRS_NMDA Varied IB->RS NMDA to see if lower values would produce greater difference. Seems to work. Batch 2b and 3b are like batches 2 and 3, respectively, except IB->RS AMPA is blocked. Seems AMPA doesnt make much difference, so can disregard. IB->RS gNMDA of 5 seems like a good value!

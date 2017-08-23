@@ -1,0 +1,1 @@
+Batch2bp1 Tried creating a sim with increased IBIB. Now varied FS->IB to compensate. Seems a high level of FS->IB is needed (0.2 instead of 0.1 that was used previously). Note that values in composite rastergrams are not scaled due to error (now fixed) in calc_synaptic_totals. 
