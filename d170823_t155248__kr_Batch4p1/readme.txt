@@ -1,0 +1,1 @@
+Batch4p1 Redo previous. Varied IB->IB AMPA. Batch2=full sim. Batch3=drive IB only. Batch4=spontaneous 
