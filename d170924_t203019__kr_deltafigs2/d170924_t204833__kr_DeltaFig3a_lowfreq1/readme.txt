@@ -1,0 +1,1 @@
+DeltaFig3a_lowfreq1 Added code for IB/NG cells to have heterogeneous synapses. Also added option for Eleak channels noisy (e.g. variable resting potential). However, we will disable this for now.
