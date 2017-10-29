@@ -1,0 +1,1 @@
+batch01a_gar_0 Unblocked gAR, setting its value to 4. Added pulse mode 6, which causes deep FS cells to fire in bursts of 5 APs at 110 Hz. This activates IB cells quite well!
