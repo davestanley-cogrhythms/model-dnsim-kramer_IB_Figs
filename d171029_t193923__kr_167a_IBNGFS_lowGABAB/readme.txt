@@ -1,0 +1,1 @@
+167a_IBNGFS_lowGABAB Reduced GABA B feedback to IB cells. This reduced the AHP after IB bursts and means less h-current activation. Allows us to implement rebound.
