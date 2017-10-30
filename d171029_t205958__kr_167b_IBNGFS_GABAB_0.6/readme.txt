@@ -1,0 +1,1 @@
+167b_IBNGFS_GABAB_0.6 Raised GABA B feedback slightly to 0.6. Might reduce this again later.
