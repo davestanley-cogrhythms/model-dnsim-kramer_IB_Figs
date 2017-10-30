@@ -1,0 +1,1 @@
+167c2_redo_gFSIB_0.3 Redid previous analysis, but reduced gFSIB from 0.5 to 0.3.
