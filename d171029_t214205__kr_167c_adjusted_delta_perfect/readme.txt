@@ -1,0 +1,1 @@
+167c_adjusted_delta_perfect Made numerous simultaneous tweaks to the delta oscillator. This seems to have fixed everything!
