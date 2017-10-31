@@ -1,0 +1,1 @@
+tune1Fig1c1 Made numerous simultaneous tweaks to the delta oscillator. This seems to have fixed everything!
