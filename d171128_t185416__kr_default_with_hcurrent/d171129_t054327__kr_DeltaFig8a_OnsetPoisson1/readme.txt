@@ -1,0 +1,1 @@
+DeltaFig8a_OnsetPoisson1 Sweep through gNGIB GABA B. Delta oscillator only; spontaneous activity.
