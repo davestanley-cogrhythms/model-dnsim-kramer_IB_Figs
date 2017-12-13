@@ -1,0 +1,1 @@
+DeltaFig9a_polley_gar0.51_gar0.25 Sweep through gNGIB GABA B. Delta oscillator only; spontaneous activity.
