@@ -5,4 +5,4 @@ Found it seemed I could get the desired offset effects, with IB cells bursting r
 
 Result: It didn't give us a reliable strong click train offset burst. It also kind of ruined the initial delta transient resposne. Hence, I'll scratch this for now.
 
-
+Note that gAR is still 0.5 for these sims.
