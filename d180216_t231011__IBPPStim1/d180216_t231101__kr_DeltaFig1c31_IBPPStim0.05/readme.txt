@@ -1,0 +1,1 @@
+DeltaFig1c31_IBPPStim0.05 Sweep through gNGIB GABA B. Delta oscillator only; spontaneous activity.
