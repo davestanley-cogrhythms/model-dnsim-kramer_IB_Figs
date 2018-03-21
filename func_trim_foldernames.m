@@ -51,7 +51,7 @@ for i = 1:length(names)
                     % but rather might be another parent folder. Hence, recursively
                     % perform sorting operation on this folder!
         
-        func_trim_foldernames(cf)
+        func_trim_foldernames(cf, do_git_mv, dry_run)
     else    % Otherwise, continue to perform the rename.
         % First, find where the date information ends
         [a,b,c] = fileparts(cf);
@@ -64,8 +64,13 @@ for i = 1:length(names)
         
         % Perform the git mv
         mycommand = [cmd_prefix ' ' cf ' ' cf_new];
-        fprintf('Running command: %s \n',mycommand);
-        if ~dry_run; system(mycommand);end
+        
+        if ~dry_run
+            fprintf('Running command: %s \n',mycommand);
+            system(mycommand);
+        else
+            fprintf('Dry run: %s \n',mycommand);
+        end
     end
 end
 
@@ -86,7 +91,7 @@ for i = 1:length(names)
                     % but rather might be another parent folder. Hence, recursively
                     % perform sorting operation on this folder!
         
-        func_trim_foldernames(cf)
+        func_trim_foldernames(cf, do_git_mv, dry_run)
     else    % Otherwise, continue to perform the rename.
         % First, find where the date information ends
         [a,b,c] = fileparts(cf);
@@ -100,8 +105,12 @@ for i = 1:length(names)
         
         % Perform the git mv
         mycommand = [cmd_prefix ' ' cf ' ' cf_new];
-        fprintf('Running command: %s \n',mycommand);
-        if ~dry_run; system(mycommand);end
+        if ~dry_run
+            fprintf('Running command: %s \n',mycommand);
+            system(mycommand);
+        else
+            fprintf('Dry run: %s \n',mycommand);
+        end
     end
 end
 
