@@ -3,7 +3,7 @@
 %% Rename hcurrent6 folders
 
 do_git_mv = true;
-dry_run = true;
+dry_run = false;
 func_trim_foldernames('d180207_t032136__hcurrent6',do_git_mv,dry_run);
 
 %% Rename IB PPStim folders
