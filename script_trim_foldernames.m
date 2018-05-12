@@ -4,7 +4,7 @@
 
 do_git_mv = false;
 dry_run = false;
-func_trim_foldernames('d180207_t032136__hcurrent6',do_git_mv,dry_run);
+% func_trim_foldernames('d180207_t032136__hcurrent6',do_git_mv,dry_run);
 
 %% Rename IB PPStim folders
 
