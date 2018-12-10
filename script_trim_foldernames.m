@@ -2,7 +2,7 @@
 
 %% Rename hcurrent6 folders
 
-do_git_mv = false;
+do_git_mv = true;
 dry_run = false;
 % func_trim_foldernames('d180207_t032136__hcurrent6',do_git_mv,dry_run);
 
@@ -19,6 +19,10 @@ func_trim_foldernames('d180218_t004620__IBPPStim7',do_git_mv,dry_run);
 %% Rename next hcurrent6 folder...
 func_trim_foldernames('d180321_t155456__hcurrent6_default',do_git_mv,dry_run);
 
+
+
+%% Rename next hcurrent6 folder...
+func_trim_foldernames('d181209_t200609__PPfreqSweep_v1.3',do_git_mv,dry_run);
 
 
 
