@@ -26,3 +26,8 @@ func_trim_foldernames('d181209_t200609__PPfreqSweep_v1.3',do_git_mv,dry_run);
 
 
 
+%% Rename next hcurrent6 folder...
+func_trim_foldernames('d181210_t124817__Model_IBPPStim7_v7.1',do_git_mv,dry_run);
+
+
+
