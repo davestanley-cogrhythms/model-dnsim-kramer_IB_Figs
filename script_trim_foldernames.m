@@ -21,13 +21,19 @@ func_trim_foldernames('d180321_t155456__hcurrent6_default',do_git_mv,dry_run);
 
 
 
-%% Rename next hcurrent6 folder...
+%% Rename next PPfreqSweep_v1.3 folder...
 func_trim_foldernames('d181209_t200609__PPfreqSweep_v1.3',do_git_mv,dry_run);
 
 
 
-%% Rename next hcurrent6 folder...
+%% Rename next Model_IBPPStim7_v7.1 folder...
 func_trim_foldernames('d181210_t124817__Model_IBPPStim7_v7.1',do_git_mv,dry_run);
+
+
+
+
+%% Rename next Model_hrw_v1.3 folder...
+func_trim_foldernames('d181210_t144825__Model_hrw_v1.3',do_git_mv,dry_run);
 
 
 
