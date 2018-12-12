@@ -1,0 +1,1 @@
+180a_sweep_RSFS Sweep through gFSRS. Purpose is to reduce alternating entrainment to 40 Hz gamma.
