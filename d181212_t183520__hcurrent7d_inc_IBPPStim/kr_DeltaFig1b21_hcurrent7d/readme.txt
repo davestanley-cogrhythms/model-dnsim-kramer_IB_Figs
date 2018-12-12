@@ -1,0 +1,1 @@
+DeltaFig1b21_hcurrent7d Sweep through gFSRS. Purpose is to reduce alternating entrainment to 40 Hz gamma.
