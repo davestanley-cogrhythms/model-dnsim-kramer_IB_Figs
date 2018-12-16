@@ -1,0 +1,1 @@
+181e_sweep_RSFS Try sweeping RSFS and RSdFS5 synapse. Sweep is {(RS->dFS5,RS->FS),g_SYN,[0, .3:.2:1.5]/Nrs}. Goal: Make initial IB burst more resiliant
