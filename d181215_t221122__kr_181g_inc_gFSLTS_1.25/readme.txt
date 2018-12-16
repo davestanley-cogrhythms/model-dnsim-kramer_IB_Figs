@@ -1,0 +1,1 @@
+181g_inc_gFSLTS_1.25 Increase gFSLTS. Goal: LTS more silent duing 40Hz and then produce better rebound
