@@ -1,0 +1,1 @@
+181f_dec_gRSFS_1.3 Decrease gRSFS to 1.3. Goal: make FS firing a bit more sparse
