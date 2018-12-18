@@ -1,0 +1,1 @@
+182a_run_dualexp_test Sup layer only. Tested model with extremely long synaptic delay.
