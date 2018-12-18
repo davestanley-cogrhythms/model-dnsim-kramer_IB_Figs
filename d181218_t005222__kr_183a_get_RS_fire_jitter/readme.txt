@@ -1,0 +1,1 @@
+183a_get_RS_fire_jitter Goal: Want RS cells to fire on the jittered (10th) AP pulse. Now this is working. The 11th pulse is inhibited, just like in experimental data. Made many changes to get this.
