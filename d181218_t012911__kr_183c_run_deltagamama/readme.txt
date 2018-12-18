@@ -1,0 +1,1 @@
+183c_run_deltagamama Ran full delta gamma model. Doesnt work well.
