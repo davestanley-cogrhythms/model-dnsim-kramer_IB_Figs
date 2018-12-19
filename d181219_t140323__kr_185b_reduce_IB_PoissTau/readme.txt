@@ -1,0 +1,1 @@
+185b_reduce_IB_PoissTau Goal: Figure out whether need to shorten IB PPStim width in order to reduce IB bursting.
