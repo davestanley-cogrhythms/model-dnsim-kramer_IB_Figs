@@ -1,0 +1,1 @@
+186a_reduce_all_PoissTau Reducing PoissTau for all populations. Goal: Reduce burstiness of IB and other cell types. Need to adjust PPStim_g_syn.
