@@ -1,0 +1,1 @@
+DeltaFig6b_onset1_hcurrent7k_redo_deeponly Goal: Make sure PPStim rest on IB cells is robust. Ran shuffle sim multiple times with different PPOnset. PPStim vals: [300, 350, 400, 500].
