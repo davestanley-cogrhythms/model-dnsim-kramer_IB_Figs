@@ -1,0 +1,1 @@
+DeltaFig1b21_hcurrent7k_poissTau_1.0 Goal: Make sure PPStim rest on IB cells is robust. Ran shuffle sim multiple times with different PPOnset. PPStim vals: [300, 350, 400, 500].
